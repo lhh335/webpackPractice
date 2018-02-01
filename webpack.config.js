@@ -1,39 +1,58 @@
 const webpack = require('webpack');
 const path = require('path');
-const HtmlWebpackPlugin = require('html-webpack-plugin');
 const CopyWebpackPlugin = require('copy-webpack-plugin');
 
 const config = {
-    entry: path.resolve(__dirname, 'www/js/app.js'),
+    entry:
+    path.resolve(__dirname, 'dev/index.js')
+    ,
     output: {
-        path: path.resolve(__dirname, 'build/js'),
-        filename: 'bundle.js'
+        path: path.resolve(__dirname, 'build'),
+        filename: 'app.js'
     },
     devServer: {
-        devtool: 'eval',
+        contentBase: 'build',
+        hot: true,
         inline: true,
-        port: 6000,
+        port: 4000,
+    },
+    devtool: 'eval',
+    resolve: {
+        extensions: ['.js', '.md', '.txt', '.proto'],
     },
     module: {
-        rules: [{
-            test: /\.js[x]?$/,
-            loader: 'babel-loader'
-        },
-        {
-            test: /\.css$/,
-            loader: 'style-loader!css-loader'
-        },
-        {
-            test: /\.json$/,
-            loader: 'json-loader'
-        }
-        ]
+        loaders: [
+            {
+                test: /\.js$/,
+                loaders: [
+                    'babel-loader',
+                ],
+                exclude: /node_modules/,
+            },
+            {
+                test: /\.json$/,
+                loader: 'json-loader',
+            },
+            {
+                test: /\.txt$/,
+                loader: 'raw-loader',
+                include: path.resolve(__dirname, 'src/app/components/raw-code'),
+            },
+            {
+                test: /\.md$/,
+                loader: 'raw-loader',
+            },
+            {
+                test: /\.css$/,
+                loader: 'style-loader!css-loader',
+            },
+        ],
     },
     plugins: [
-        new CopyWebpackPlugin({
-            from: path.resolve(__dirname, 'build/admin.html')
-        }),
-        new webpack.HotModuleReplacementPlugin()
+        new webpack.HotModuleReplacementPlugin(),
+        new CopyWebpackPlugin([
+            { from: 'www/index.html' },
+        ]),
     ]
 }
 
