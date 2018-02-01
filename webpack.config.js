@@ -23,9 +23,9 @@ const config = {
     module: {
         loaders: [
             {
-                test: /\.js$/,
+                test: /\.js[x]?$/,
                 loaders: [
-                    'babel-loader',
+                    'babel-loader?presets[]=es2015&presets[]=react',
                 ],
                 exclude: /node_modules/,
             },
@@ -50,6 +50,7 @@ const config = {
     },
     plugins: [
         new webpack.HotModuleReplacementPlugin(),
+        new webpack.NoEmitOnErrorsPlugin(),
         new CopyWebpackPlugin([
             { from: 'www/index.html' },
         ]),

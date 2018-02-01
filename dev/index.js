@@ -1,7 +1,19 @@
-import React from 'react';
-import { render } from 'react-dom';
-import { Router } from 'react-router';
+const React = require("react");
+const ReactDOM = require("react-dom");
 
+class Content extends React.Component {
+    render() {
 
-render('454', document.querySelector('#index'));
-
+        return (
+            <div>
+                4564564
+            </div>
+        )
+    }
+}
+var el = (
+    <div>
+        <Content />
+    </div>
+)
+ReactDOM.render(el, document.getElementById("index"));

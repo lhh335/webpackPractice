@@ -2,100 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b003a5b5-8c95-4db5-9894-42433abc8003" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/admin.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/0.04452b6c1d960d76f04e.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/0.092faee3f97d933c67ee.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/0.0d7247cfc419a33df860.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/0.226de6605bd30c3f2c98.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/0.2664626ddf2cf18b5e86.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/0.28c8f02fbbed26396e18.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/0.34fdf3751909bb1c9a90.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/0.3b1bb2f04ce6a0a1da80.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/0.50f6acbca080a8e101cb.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/0.65e311ba4dd96dc69670.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/0.681cbe91f0675267ee90.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/0.6a387f51ca57d7f5395b.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/0.6a7355cb858dc10a5e88.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/0.6c8ef9f40179f3c2fef7.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/0.6d71fa935e12ebf90437.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/0.905337db2213dbc8d860.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/0.ac2628987785ffb0119d.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/0.af0cbd7db170fe1617b9.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/0.b0d565023061c3ea7a82.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/0.dfdb384286a3dbfcc816.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/0.e7d9a986f97be2f749e2.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/0.ed3dd06fed9e5ab4d256.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/0.edefb745e617db2dacee.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/0.f368d36af9689f83889b.hot-update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/04452b6c1d960d76f04e.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/08a4a40dec334b49b2f6.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/092faee3f97d933c67ee.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/0d6c23c91a0f54e94134.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/0d7247cfc419a33df860.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/10ebef157df1a45d795b.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/1bf9562eb93c3b1cc3c5.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/226de6605bd30c3f2c98.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/2664626ddf2cf18b5e86.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/28c8f02fbbed26396e18.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/2c856ce7112ddecd550d.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/325473f5962b3b511724.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/3330c203efa0b4aae6a8.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/34fdf3751909bb1c9a90.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/3b1bb2f04ce6a0a1da80.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/40651c1959bde46ccf7c.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/45d0dddb516f35fc33e5.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/4d860a72108b627e76df.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/50f6acbca080a8e101cb.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/52d6c4394ea3c2bbb9e3.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/5540270d762cf500c3ed.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/5d72d55de38bb9fe48fb.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/619db791314f2111464c.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/65e311ba4dd96dc69670.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/681cbe91f0675267ee90.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/6a387f51ca57d7f5395b.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/6a7355cb858dc10a5e88.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/6c8ef9f40179f3c2fef7.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/6d71fa935e12ebf90437.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/77ccf20b7af21879f4eb.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/789c573d5e996a5d311a.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/8301a5386a0ad870ad62.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/905337db2213dbc8d860.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/907982edb129a7075094.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/91258556c0897f5f4239.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/9e39215b291e90d0267f.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/a5aa855cd4776a4c170b.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/a844ebd1b9467b5a2189.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/ac2628987785ffb0119d.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/ac4348e57f6507b52d88.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/af0cbd7db170fe1617b9.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/b0d565023061c3ea7a82.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/b99e10dc54a82de37aa2.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/bundle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/c6f30f87dc8e58ccd9b9.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/c9081ac2f924b49a305d.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/cb99421af4b050b79b38.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/d9d92f15cfbd493dbeda.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/dfdb384286a3dbfcc816.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/e5593c4c21ef57e1930e.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/e7d9a986f97be2f749e2.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/e80e6be8641d048eb560.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/ead40e6d641a01d31963.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/ed3dd06fed9e5ab4d256.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/edefb745e617db2dacee.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/f32cff2af6cfdc4ff81b.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/f368d36af9689f83889b.hot-update.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/js/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/admin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/login.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/server.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/views/admin.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/views/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www/views/login.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/index.js" afterPath="$PROJECT_DIR$/dev/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webpack.config.js" afterPath="$PROJECT_DIR$/webpack.config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -119,8 +29,8 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dev/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            <state relative-caret-position="286">
+              <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -129,8 +39,8 @@
       <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/webpack.config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="386">
-              <caret line="52" column="13" lean-forward="false" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
+            <state relative-caret-position="438">
+              <caret line="56" column="5" lean-forward="false" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -157,6 +67,12 @@
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
     <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
   </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
@@ -228,8 +144,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -239,6 +155,9 @@
     <property name="nodejs_interpreter_path" value="D:/nodejs/node" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="D:\nodejs\node.exe" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -312,16 +231,17 @@
       <option name="presentableId" value="Default" />
       <updated>1517383339568</updated>
       <workItem from="1517383340887" duration="4360000" />
-      <workItem from="1517465757350" duration="25000" />
+      <workItem from="1517465757350" duration="780000" />
+      <workItem from="1517471892728" duration="608000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4385000" />
+    <option name="totallyTimeSpent" value="5748000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -353,14 +273,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/routes/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/index.js" />
     <entry file="file://$PROJECT_DIR$/dev/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -369,54 +282,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build/js/admin.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/views/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/admin.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/login.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/login.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/build/js/admin.js" />
+    <entry file="file://$PROJECT_DIR$/www/views/index.html" />
+    <entry file="file://$PROJECT_DIR$/dev/admin.js" />
+    <entry file="file://$PROJECT_DIR$/routes/login.js" />
+    <entry file="file://$PROJECT_DIR$/dev/login.js" />
+    <entry file="file://$PROJECT_DIR$/server.js" />
     <entry file="file://$PROJECT_DIR$/webpack.config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="676">
@@ -432,13 +303,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/views/admin.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/www/views/admin.html" />
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="26">
@@ -446,84 +311,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/views/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/login.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/login.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/admin.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/js/admin.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/www/views/login.html" />
+    <entry file="file://$PROJECT_DIR$/server.js" />
+    <entry file="file://$PROJECT_DIR$/routes/login.js" />
+    <entry file="file://$PROJECT_DIR$/dev/login.js" />
+    <entry file="file://$PROJECT_DIR$/dev/admin.js" />
+    <entry file="file://$PROJECT_DIR$/build/js/admin.js" />
+    <entry file="file://$PROJECT_DIR$/routes/index.js" />
+    <entry file="file://$PROJECT_DIR$/build/js/index.js" />
+    <entry file="file://$PROJECT_DIR$/www/views/index.html" />
     <entry file="file://$PROJECT_DIR$/dev/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        <state relative-caret-position="286">
+          <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/webpack.config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="52" column="13" lean-forward="false" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
+        <state relative-caret-position="438">
+          <caret line="56" column="5" lean-forward="false" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build/js/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3744">
-          <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/views/index.html" />
   </component>
 </project>
