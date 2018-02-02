@@ -1,4 +1,4 @@
-import  React  from 'react';
+import React from 'react';
 import {
     Route,
     Redirect,
@@ -8,11 +8,13 @@ import PageOne from './page/PageOne';
 import PageTwo from './page/PageTwo';
 import PageThree from './page/PageThree';
 import PageFour from './page/PageFour';
+import Master from './Master';
+import Home from './HomePage';
 
 const AppRoutes = {
     "routes": (
-        <Route path='/'>
-            <IndexRoute component={PageOne} />
+        <Route path='/' component={Master}>
+            <IndexRoute component={Home} />
             <Redirect from="page" to="page/one" />
             <Route path='page'>
                 <Route path='one' component={PageOne} />
@@ -22,6 +24,5 @@ const AppRoutes = {
             </Route>
         </Route>
     )
-
 }
 export default AppRoutes;

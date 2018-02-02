@@ -1,4 +1,4 @@
-import { React,Component } from 'react';
+import React,{Component} from 'react';
 
 class PageThree extends Component {
     render() {
