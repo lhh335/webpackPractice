@@ -9,7 +9,7 @@ class PageOne extends Component {
     }
     render() {
         return (
-            <h1>this is a PageOne</h1>
+            <h1 style={{ position: 'absolute', left: 150, top: 10, color: 'red' }}>this is a PageOne</h1>
         )
     }
 }

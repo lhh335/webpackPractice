@@ -4,11 +4,17 @@ import { Router, useRouterHistory, hashHistory, browserHistory } from 'react-rou
 import AppRoutes from './AppRoutes';
 import { createHashHistory } from 'history';
 import AppNavDrawer from './AppNavDrawer';
+import Master from './Master';
 
 
-
-render(<Router
-    history={useRouterHistory(createHashHistory)({ queryKey: false })}
-    onUpdate={() => window.scrollTo(0, 0)}
-    >
-    {AppRoutes['routes']}</Router>, document.querySelector("#index"));
+render(
+    <div>
+        <Master />
+        <Router
+            
+            history={useRouterHistory(createHashHistory)({ queryKey: false })}
+            onUpdate={() => window.scrollTo(0, 0)}
+            >
+            {AppRoutes['routes']}
+        </Router>
+    </div>, document.querySelector("#index"));

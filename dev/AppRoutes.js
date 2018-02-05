@@ -13,8 +13,7 @@ import Home from './HomePage';
 
 const AppRoutes = {
     "routes": (
-        <Route path='/' component={Master}>
-            <IndexRoute component={Home} />
+        <Route path='/'>
             <Redirect from="page" to="page/one" />
             <Route path='page'>
                 <Route path='one' component={PageOne} />
