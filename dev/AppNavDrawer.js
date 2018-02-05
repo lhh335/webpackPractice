@@ -35,7 +35,6 @@ class AppNavDrawer extends Component {
                 <Option value="page/three">页面三</Option>
                 <Option value="page/four">页面四</Option>
             </Select>
-
         )
     }
 }

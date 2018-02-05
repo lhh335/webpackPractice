@@ -33,9 +33,11 @@
   },
   "dependencies": {
     "express": "^4.16.2",
+    "mysql": "^2.15.0",
     "react": "^15.4.0",
     "react-dom": "^15.0.0",
     "react-redux": "^5.0.6",
-    "redux": "^3.7.2"
+    "redux": "^3.7.2",
+    "whatwg-fetch": "^2.0.3"
   }
 }

@@ -8,7 +8,7 @@ class Master extends Component {
         this.callback = this.callback.bind(this);
     }
     componentDidMount() {
-        console.log('master');
+        
     }
 
     callback(location) {
