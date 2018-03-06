@@ -7,11 +7,11 @@ const config = {
     path.resolve(__dirname, 'dev/index.js')
     ,
     output: {
-        path: path.resolve(__dirname, 'build'),
+        path: path.resolve(__dirname, 'www'),
         filename: 'app.js'
     },
     devServer: {
-        contentBase: 'build',
+        contentBase: 'www',
         hot: true,
         inline: true,
         port: 4000,
@@ -52,7 +52,7 @@ const config = {
         new webpack.HotModuleReplacementPlugin(),
         new webpack.NoEmitOnErrorsPlugin(),
         new CopyWebpackPlugin([
-            { from: 'www/index.html' },
+            { from: 'www/indexs.html' },
         ]),
     ]
 }

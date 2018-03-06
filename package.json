@@ -5,8 +5,9 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npm run development",
-    "development": "webpack-dev-server --config webpack.config.js --inline"
+    "start": "npm run development  &&  npm run server",
+    "development": "webpack-dev-server --config webpack.config.js --inline",
+    "server":"npm run server.js"
   },
   "author": "",
   "license": "ISC",

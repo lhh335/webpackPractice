@@ -9,9 +9,10 @@ class PageOne extends Component {
     addAdmin() {
         console.log('添加管理员');
         var sourceData = {
-
+            name: 'lihaihe',
+            age: 25,
+            address: '北京'
         }
-        console.log(fetch, 2222);
         fetch('/page/one', {
             method: 'post',
             headers: {
@@ -20,7 +21,7 @@ class PageOne extends Component {
             credentials: 'same-origin',
             body: JSON.stringify(sourceData)
         }).then((res) => res.json()).then((data) => {
-            console.log(data);
+            console.log(data, 22222);
         })
     }
     render() {

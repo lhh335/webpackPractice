@@ -3,7 +3,7 @@ import { Button } from "antd";
 
 
 class PageFour extends Component {
-    addAD() {
+    addAD(){
         console.log('添加广告');
     }
     render() {

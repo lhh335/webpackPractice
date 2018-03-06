@@ -4,7 +4,7 @@ const pool = mysql.createPool({
     host: 'localhost',
     user: 'root',
     password: 'lhhzz335',
-    database: 'webpack'
+    database: 'project'
 })//创建连接池
 function query(sql, arr, fn) {
     pool.getConnection((err, con) => {
